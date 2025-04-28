@@ -1,0 +1,9 @@
+/home/LeGusto/Documents/Calculator/build/Desktop-Debug/CMakeFiles/Calculator.dir
+/home/LeGusto/Documents/Calculator/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/LeGusto/Documents/Calculator/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/LeGusto/Documents/Calculator/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/LeGusto/Documents/Calculator/build/Desktop-Debug/CMakeFiles/install.dir
+/home/LeGusto/Documents/Calculator/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/LeGusto/Documents/Calculator/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/LeGusto/Documents/Calculator/build/Desktop-Debug/CMakeFiles/Calculator_autogen_timestamp_deps.dir
+/home/LeGusto/Documents/Calculator/build/Desktop-Debug/CMakeFiles/Calculator_autogen.dir

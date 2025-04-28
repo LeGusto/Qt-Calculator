@@ -1,0 +1,16 @@
+# ninja log v6
+1	290	1745848934485753111	Calculator_autogen/timestamp	3572f01cb1c02e3f
+1	290	1745848934485753111	Calculator_autogen/mocs_compilation.cpp	3572f01cb1c02e3f
+1	290	1745848934485753111	/home/LeGusto/Documents/Calculator/build/Desktop-Debug/Calculator_autogen/timestamp	3572f01cb1c02e3f
+1	290	1745848934485753111	/home/LeGusto/Documents/Calculator/build/Desktop-Debug/Calculator_autogen/mocs_compilation.cpp	3572f01cb1c02e3f
+291	1897	1745848934493145151	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.o	b11f7831c43d7d19
+292	1977	1745848934494417943	CMakeFiles/Calculator.dir/mainwindow.cpp.o	7ba6f113c7b859f7
+292	1980	1745848934493753143	CMakeFiles/Calculator.dir/main.cpp.o	fe72a0cb39d552b4
+1980	2172	1745848936181759891	Calculator	b18353479c14dd46
+3	28	1745849025387116437	Calculator_autogen/timestamp	3572f01cb1c02e3f
+3	28	1745849025387116437	Calculator_autogen/mocs_compilation.cpp	3572f01cb1c02e3f
+3	28	1745849025387116437	/home/LeGusto/Documents/Calculator/build/Desktop-Debug/Calculator_autogen/timestamp	3572f01cb1c02e3f
+3	28	1745849025387116437	/home/LeGusto/Documents/Calculator/build/Desktop-Debug/Calculator_autogen/mocs_compilation.cpp	3572f01cb1c02e3f
+28	1223	1745849025413116541	CMakeFiles/Calculator.dir/main.cpp.o	fe72a0cb39d552b4
+29	1294	1745849025414116545	CMakeFiles/Calculator.dir/mainwindow.cpp.o	7ba6f113c7b859f7
+1294	1455	1745849026678121596	Calculator	b18353479c14dd46
