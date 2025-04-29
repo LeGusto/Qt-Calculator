@@ -8,8 +8,8 @@ int main(int argc, char *argv[])
 {
     QApplication app (argc, argv);
 
-    QPushButton button ("Hello world !");
-    button.show();
+    MainWindow w;
+    w.show();
 
     return app.exec();
 }
